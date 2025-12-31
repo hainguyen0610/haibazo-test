@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "TEST",
   "items": [
     {
       "name": "node_modules",
@@ -22,7 +22,7 @@
           ]
         },
         {
-          "name": "app.tsx",
+          "name": "App.tsx",
           "items": []
         }
       ]
