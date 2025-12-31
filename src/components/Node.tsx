@@ -1,12 +1,12 @@
+import "./Node.css";
+
 type Props = {
   name: string;
   items: Props[];
 };
 
-import "./Node.css";
-
 const getRandomColor = () => {
-  return "#" + Math.floor(Math.random() * 0xFFFFFF).toString(16);
+  return "#" + Math.floor(Math.random() * 0xffffff).toString(16);
 };
 
 const Node = ({ name, items }: Props) => {
