@@ -1,0 +1,35 @@
+{
+  "name": "test",
+  "items": [
+    {
+      "name": "node_modules",
+      "items": []
+    },
+    {
+      "name": "public",
+      "items": []
+    },
+    {
+      "name": "src",
+      "items": [
+        {
+          "name": "assets",
+          "items": [
+            {
+              "name": "data.json",
+              "items": []
+            }
+          ]
+        },
+        {
+          "name": "app.tsx",
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "file",
+      "items": []
+    }
+  ]
+}
